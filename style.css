@@ -105,3 +105,12 @@ a:hover {
     background-color: #e53539;
     height: 15px;
 }
+
+/* PART 1 */
+.site-main h1 {
+    font-weight: 300;
+    margin-top: 0;
+}
+.site-main p {
+    color: #666;
+}
